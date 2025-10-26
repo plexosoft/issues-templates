@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Estimation and Team Velocity
-about: User Stories Estimation and Team Velocity
-title: 'Release #: Estimation and Team Velocity'
-labels: ''
-assignees: plexoio
-
----
-
 ## Theme
 - [Release #]()
 
