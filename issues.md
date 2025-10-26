@@ -1,4 +1,4 @@
-## 🏷️ SCRUM Labels Overview
+## 🏷️ SCRUM Labels
 
 Labels help organize and prioritize issues and pull requests. They make it easier to filter, track, and communicate progress during Agile development.  
 
